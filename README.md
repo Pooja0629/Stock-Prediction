@@ -1,9 +1,3 @@
-Perfect 👍
-Here is a **FULL, clean, professional README** for your **Stock Price Prediction** project — **same style as your Resume Analyzer README**, simple, short, and GitHub-ready.
-
-You can **copy–paste this entirely** 👇
-
----
 
 # 📈 Stock Price Prediction using Machine Learning
 
@@ -55,11 +49,11 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-## 📬 Contact
+## Contact
 
-* **Author:** Pooja S
-* **Email:** [poojashree2266@gmail.com](mailto:poojashree2266@gmail.com)
-* **GitHub:** Pooja0629
+- Author: ***Pooja S***
+- Email: [poojashree2266@gmail.com](mailto:poojashree2266@gmail.com)
+- GitHub: [Pooja0629](https://github.com/Pooja0629)
 
 ---
 
