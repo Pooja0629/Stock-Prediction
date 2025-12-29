@@ -1,11 +1,11 @@
 
-# 📈 Stock Price Prediction using Machine Learning
+#  Stock Price Prediction using Machine Learning
 
 An AI-driven project that analyzes historical stock market data and predicts future closing prices using machine learning techniques.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Historical stock price analysis
 * Data cleaning and preprocessing
@@ -15,7 +15,7 @@ An AI-driven project that analyzes historical stock market data and predicts fut
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 * **Python**
 * **Pandas & NumPy** – data preprocessing
@@ -24,7 +24,7 @@ An AI-driven project that analyzes historical stock market data and predicts fut
 
 ---
 
-## 📌 How It Works
+##  How It Works
 
 1. Load historical stock price data
 2. Preprocess and extract closing prices
@@ -34,13 +34,13 @@ An AI-driven project that analyzes historical stock market data and predicts fut
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 * **scikit-learn** for machine learning algorithms
 * **pandas & NumPy** for efficient data processing
@@ -57,7 +57,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-## 🔗 Project Links
+##  Project Links
 
 * **Repository:** [https://github.com/Pooja0629/Stock-Price-Prediction](https://github.com/Pooja0629/Stock-Price-Prediction)
 * **Issues:** [https://github.com/Pooja0629/Stock-Price-Prediction/issues](https://github.com/Pooja0629/Stock-Price-Prediction/issues)
